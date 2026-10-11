@@ -2,8 +2,6 @@
 
 A fan-made, early-alpha-style voxel sandbox starring a fox. Mine, build, and explore a procedurally generated world with gritty pixel textures, heavy fog, and blocky clouds, right in your browser.
 
-**Play it:** https://kasai-kitsune.github.io/Foxcraft/
-
 ## Features
 
 - Procedural terrain with hills, lakes, caves, ores, and trees
@@ -34,15 +32,6 @@ A fan-made, early-alpha-style voxel sandbox starring a fox. Mine, build, and exp
 
 Next.js, React, Three.js, and Tailwind CSS.
 
-## Run locally
-
-```
-npm install --legacy-peer-deps
-npm run dev
-```
-
-Then open http://localhost:3000.
-
 ## Notes
 
-Worlds are not saved, like the original alpha builds. This is an unofficial fan project and is not affiliated with Mojang.
+Worlds are not saved. This is an unofficial fan project and is not affiliated with any company.
