@@ -1,0 +1,3 @@
+:HL["/Foxcraft/_next/static/chunks/29ijg17a1y1x5.css","style"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"fNPP4JbHrQYxZyjkfKyMt","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
